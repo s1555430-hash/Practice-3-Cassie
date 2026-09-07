@@ -21,3 +21,8 @@ img {
 h1 {
     color: #FACB37;
 }
+aside {
+    background: #d83134;
+    color: #F6F6F4;
+    border: 6px solid #111111;
+}
